@@ -17,7 +17,7 @@ import org.junit.runner.RunWith;
         ,stepNotifications = true
 )
 
-//fcyvgubhinjokml
+
 @RunWith(Cucumber.class)
 public class CucumberRunner {
 }
