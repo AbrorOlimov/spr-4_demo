@@ -15,8 +15,9 @@ import org.junit.runner.RunWith;
                 "html:target/cucumber-report/report.html"
         }
         ,stepNotifications = true
-)
+        // , dryRun = true
 
+)
 
 @RunWith(Cucumber.class)
 public class CucumberRunner {
